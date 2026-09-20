@@ -1,0 +1,151 @@
+Show_ID,Type,Title,Director,Cast,Country,Date_Added,Release_Year,Rating,Duration,Genre (Listed_In),Description
+s0001,TV Show,Title 1,Unknown,Actor E,Canada,2020-12-01,2019,PG-13,2 Seasons,Comedy,Inspiring true story.
+s0002,movie,Title 2,director 1,"Actor C, Actor D",India,"January 5, 2021",2022,TV-MA,90 min,Action,Inspiring true story.
+s0003,Movie,Title 3,Unknown,"Actor A, Actor B",India,2020-12-01,2019,TV-MA,120min,Comedy,Inspiring true story.
+s0004,movie,Title 4,director 3,"Actor C, Actor D",UK," March 7, 2018 ",2019,R,120min,"Drama, Comedy",Inspiring true story.
+s0005,Movie,Title 5,Unknown,Actor E,USA,"January 5, 2021",2018,TV-MA,2 Seasons,Documentary,Inspiring true story.
+s0006,TV Show,Title 6,director 5,"Actor A, Actor B", india ," March 7, 2018 ",2020,PG,1 Season,Action,Inspiring true story.
+s0007,Movie,Title 7,Unknown,"Actor C, Actor D",USA,"January 5, 2021",2020,TV-MA,2 Seasons,Drama,A thrilling adventure.
+s0008,movie,Title 8,Unknown,"Actor A, Actor B",UK," March 7, 2018 ",2020,R,120min,"Drama, Comedy",Inspiring true story.
+s0009,TV show,Title 9,Director 8,,India,2020-12-01,2018,TV-MA,120min,Drama,Family drama with twists.
+s0010,movie,Title 10,Director 9,"Actor A, Actor B",India,13/02/2019,2021,TV-MA,1 Season,"Drama, Comedy",A thrilling adventure.
+s0011,TV show,Title 11,Unknown,Actor E,Canada,2020-12-01,2020,PG,90 min,Action,Inspiring true story.
+s0012,TV show,Title 12,Director 11,Actor E,UK,13/02/2019,,TV-MA,2 Seasons,Comedy,Family drama with twists.
+s0013,Movie,Title 13,director 4,Actor E,UK,"January 5, 2021",2020,PG,120min,"Drama, Comedy",A thrilling adventure.
+s0014,Movie,Title 14,Director 13,Actor E,UK,"January 5, 2021",2021,PG-13,120min,Documentary,Family drama with twists.
+s0015,movie,Title 15,Director 14,"Actor C, Actor D",India," March 7, 2018 ",2020,TV-MA,90 min,Comedy,
+s0016,TV Show,Title 16,Unknown,"Actor A, Actor B", india ,2020-12-01,2019,TV-MA,1 Season,Comedy,A thrilling adventure.
+s0017,Movie,Title 17,director 0,"Actor A, Actor B",USA,13/02/2019,2020,PG-13,90 min,Drama,A thrilling adventure.
+s0018,Movie,Title 18,Unknown,"Actor C, Actor D",Canada,13/02/2019,2020,R,1 Season,"Drama, Comedy",
+s0019,Movie,Title 19,director 2,"Actor C, Actor D",USA," March 7, 2018 ",2021,TV-MA,2 Seasons,Action,A thrilling adventure.
+s0020,TV show,Title 20,director 3,"Actor C, Actor D",UK,2020-12-01,2020,PG-13,90 min,"Drama, Comedy",Inspiring true story.
+s0021,TV show,Title 21,director 4,"Actor A, Actor B", india ," March 7, 2018 ",2019,PG,1 Season,Documentary,Inspiring true story.
+s0022,TV show,Title 22,Director 6,Actor E,USA," March 7, 2018 ",2021,TV-MA,1 Season,Documentary,Family drama with twists.
+s0023,movie,Title 23,director 6,"Actor C, Actor D", india ,"January 5, 2021",2019,PG-13,120min,Drama,Inspiring true story.
+s0024,TV Show,Title 24,Director 8,"Actor C, Actor D",Canada,2020-12-01,2020,PG,2 Seasons,Comedy,A thrilling adventure.
+s0025,Movie,Title 25,director 0,"Actor A, Actor B",India,"January 5, 2021",2020,TV-MA,120min,Documentary,Family drama with twists.
+s0026,movie,Title 26,Director 10,"Actor C, Actor D",Canada," March 7, 2018 ",2018,TV-MA,90 min,Drama,A thrilling adventure.
+s0027,movie,Title 27,director 2,"Actor A, Actor B", india ,2020-12-01,2022,PG,120min,Comedy,A thrilling adventure.
+s0028,TV show,Title 28,Director 12,Actor E,UK," March 7, 2018 ",2018,TV-MA,90 min,Action,Family drama with twists.
+s0029,TV show,Title 29,Unknown,Actor E,India,13/02/2019,2020,PG-13,120min,Action,Family drama with twists.
+s0030,TV Show,Title 30,Director 14,"Actor A, Actor B",Canada,"January 5, 2021",2020,PG,1 Season,Comedy,A thrilling adventure.
+s0031,Movie,Title 31,Unknown,Actor E,UK,2020-12-01,2019,TV-MA,1 Season,Action,Family drama with twists.
+s0032,movie,Title 32,director 7,Actor E,India,"January 5, 2021",2022,TV-MA,1 Season,Documentary,A thrilling adventure.
+s0033,Movie,Title 33,director 0,"Actor C, Actor D", india ,2020-12-01,2019,PG,90 min,"Drama, Comedy",A thrilling adventure.
+s0034,TV show,Title 34,Unknown,"Actor A, Actor B",USA,"January 5, 2021",2020,PG,1 Season,Documentary,A thrilling adventure.
+s0035,movie,Title 35,director 2,"Actor C, Actor D", india ," March 7, 2018 ",2020,PG,90 min,Action,Inspiring true story.
+s0036,TV show,Title 36,Director 5,"Actor A, Actor B", india ,,2018,R,1 Season,"Drama, Comedy",A thrilling adventure.
+s0037,TV show,Title 37,director 4,"Actor C, Actor D",India," March 7, 2018 ",2020,PG,120min,Documentary,Inspiring true story.
+s0038,movie,Title 38,director 5,Actor E,India,13/02/2019,2022,R,120min,Comedy,A thrilling adventure.
+s0039,TV show,Title 39,director 6,Actor E, india ," March 7, 2018 ",2019,PG-13,120min,Comedy,Family drama with twists.
+s0040,TV show,Title 40,Unknown,Actor E,India,"January 5, 2021",2021,R,2 Seasons,Comedy,Family drama with twists.
+s0041,movie,Title 41,director 0,Actor E,India," March 7, 2018 ",2022,PG,120min,Action,A thrilling adventure.
+s0042,movie,Title 42,Director 11,"Actor C, Actor D", india ,13/02/2019,2019,R,2 Seasons,Comedy,Inspiring true story.
+s0043,Movie,Title 43,Unknown,"Actor C, Actor D",USA," March 7, 2018 ",2019,PG-13,2 Seasons,"Drama, Comedy",Inspiring true story.
+s0044,Movie,Title 44,Unknown,"Actor A, Actor B", india ,2020-12-01,2019,TV-MA,120min,Documentary,Inspiring true story.
+s0045,TV show,Title 45,Unknown,"Actor C, Actor D",UK,"January 5, 2021",2020,PG-13,90 min,Action,Family drama with twists.
+s0046,movie,Title 46,Director 0,"Actor C, Actor D",USA,"January 5, 2021",2018,R,90 min,"Drama, Comedy",Inspiring true story.
+s0047,Movie,Title 47,Unknown,"Actor C, Actor D",UK,13/02/2019,2021,R,90 min,"Drama, Comedy",A thrilling adventure.
+s0048,Movie,Title 48,Unknown,"Actor A, Actor B", india ,13/02/2019,2022,PG-13,120min,Drama,A thrilling adventure.
+s0049,TV show,Title 49,Unknown,"Actor C, Actor D",USA,"January 5, 2021",2020,TV-MA,2 Seasons,Drama,A thrilling adventure.
+s0050,movie,Title 50,Unknown,"Actor C, Actor D",USA,2020-12-01,2020,R,2 Seasons,Action,Family drama with twists.
+s0051,TV show,Title 51,director 2,"Actor A, Actor B",Canada,"January 5, 2021",2020,PG-13,120min,Documentary,Family drama with twists.
+s0052,TV show,Title 52,Director 6,Actor E,Canada,2020-12-01,2022,R,120min,Comedy,Inspiring true story.
+s0053,TV Show,Title 53,Director 7,"Actor C, Actor D",USA,13/02/2019,2021,R,90 min,Drama,Family drama with twists.
+s0054,Movie,Title 54,Unknown,"Actor C, Actor D", india ,2020-12-01,2018,PG-13,2 Seasons,Comedy,Family drama with twists.
+s0055,Movie,Title 55,Director 9,"Actor A, Actor B",India,"January 5, 2021",2020,PG,90 min,Comedy,Family drama with twists.
+s0056,Movie,Title 56,Director 10,,Canada,"January 5, 2021",2018,PG-13,1 Season,Action,A thrilling adventure.
+s0057,TV show,Title 57,Unknown,"Actor A, Actor B", india ,"January 5, 2021",2019,PG-13,90 min,Drama,A thrilling adventure.
+s0058,Movie,Title 58,Unknown,"Actor C, Actor D",USA,"January 5, 2021",2020,TV-MA,1 Season,Drama,Family drama with twists.
+s0059,movie,Title 59,Director 13,Actor E,Canada,13/02/2019,2020,PG,120min,Comedy,Family drama with twists.
+s0060,TV Show,Title 60,Unknown,"Actor C, Actor D", india ,2020-12-01,2020,TV-MA,120min,"Drama, Comedy",Family drama with twists.
+s0061,TV Show,Title 61,director 4,"Actor A, Actor B", india ,13/02/2019,2021,TV-MA,90 min,Drama,A thrilling adventure.
+s0062,TV show,Title 62,Director 1,"Actor C, Actor D",Canada,13/02/2019,2021,R,2 Seasons,Documentary,Family drama with twists.
+s0063,Movie,Title 63,Unknown,Actor E,UK,2020-12-01,2021,TV-MA,120min,Comedy,Family drama with twists.
+s0064,Movie,Title 64,Unknown,"Actor C, Actor D",India,"January 5, 2021",2018,PG-13,2 Seasons,Drama,Inspiring true story.
+s0065,TV Show,Title 65,Director 4,"Actor A, Actor B",USA,2020-12-01,2018,PG,90 min,Action,A thrilling adventure.
+s0066,movie,Title 66,Director 5,"Actor A, Actor B",Canada,13/02/2019,2018,R,120min,Comedy,A thrilling adventure.
+s0067,Movie,Title 67,Director 6,"Actor A, Actor B",USA,"January 5, 2021",2018,PG-13,1 Season,Comedy,Inspiring true story.
+s0068,TV Show,Title 68,Unknown,"Actor A, Actor B",UK," March 7, 2018 ",2018,R,1 Season,Documentary,Inspiring true story.
+s0069,TV Show,Title 69,director 4,Actor E,USA," March 7, 2018 ",2019,PG-13,2 Seasons,Documentary,Family drama with twists.
+s0070,TV Show,Title 70,Unknown,Actor E,USA,13/02/2019,2022,PG-13,,Drama,A thrilling adventure.
+s0071,movie,Title 71,Unknown,"Actor C, Actor D",USA,"January 5, 2021",2020,TV-MA,120min,Comedy,Family drama with twists.
+s0072,TV show,Title 72,Director 11,"Actor A, Actor B",UK,2020-12-01,2022,R,120min,Action,Family drama with twists.
+s0073,TV show,Title 73,Director 12,Actor E,Canada,13/02/2019,2019,TV-MA,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0074,Movie,Title 74,Unknown,"Actor C, Actor D",India,2020-12-01,2020,PG-13,120min,Documentary,A thrilling adventure.
+s0075,movie,Title 75,Unknown,"Actor C, Actor D",USA,13/02/2019,2018,PG-13,120min,Drama,Family drama with twists.
+s0076,TV Show,Title 76,Unknown,"Actor C, Actor D",Canada,2020-12-01,2018,PG,1 Season,Drama,Family drama with twists.
+s0077,movie,Title 77,Unknown,Actor E,Canada,13/02/2019,2019,TV-MA,1 Season,Comedy,A thrilling adventure.
+s0078,Movie,Title 78,Unknown,"Actor C, Actor D",India," March 7, 2018 ",2020,TV-MA,120min,Action,Inspiring true story.
+s0079,movie,Title 79,Unknown,"Actor C, Actor D",Canada,13/02/2019,2018,TV-MA,90 min,"Drama, Comedy",Inspiring true story.
+s0080,TV show,Title 80,Director 4,"Actor A, Actor B",UK,13/02/2019,2022,PG,120min,Action,A thrilling adventure.
+s0081,TV show,Title 81,director 0,"Actor A, Actor B",UK," March 7, 2018 ",2022,TV-MA,1 Season,"Drama, Comedy",A thrilling adventure.
+s0082,Movie,Title 82,,"Actor C, Actor D",India,13/02/2019,2022,PG,120min,Documentary,Inspiring true story.
+s0083,TV Show,Title 83,Director 7,Actor E,India," March 7, 2018 ",2022,PG-13,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0084,Movie,Title 84,Director 8,"Actor A, Actor B", india ,"January 5, 2021",2018,PG,120min,Action,Family drama with twists.
+s0085,TV Show,Title 85,Director 9,"Actor C, Actor D",UK,13/02/2019,2018,TV-MA,120min,Drama,Inspiring true story.
+s0086,TV show,Title 86,Unknown,"Actor A, Actor B", india ,2020-12-01,2019,PG-13,,Comedy,Inspiring true story.
+,movie,Title 87,director 6,"Actor A, Actor B",India,"January 5, 2021",2022,PG-13,90 min,Documentary,Inspiring true story.
+s0088,Movie,Title 88,director 7,Actor E,India,2020-12-01,2018,TV-MA,90 min,"Drama, Comedy",Inspiring true story.
+s0089,TV Show,Title 89,Director 13,"Actor A, Actor B", india ,2020-12-01,2019,R,120min,Comedy,Family drama with twists.
+s0090,movie,Title 90,director 1,"Actor C, Actor D",Canada,13/02/2019,2021,TV-MA,1 Season,Documentary,Family drama with twists.
+s0091,TV show,Title 91,Unknown,"Actor A, Actor B",India,2020-12-01,2019,TV-MA,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0092,Movie,Title 92,Unknown,"Actor C, Actor D",Canada,"January 5, 2021",2022,PG-13,90 min,"Drama, Comedy",A thrilling adventure.
+s0093,TV Show,Title 93,Unknown,"Actor C, Actor D", india ,13/02/2019,2022,R,1 Season,Comedy,Family drama with twists.
+s0094,TV show,Title 94,director 5,"Actor A, Actor B",USA,13/02/2019,2020,R,2 Seasons,"Drama, Comedy",Inspiring true story.
+s0095,Movie,Title 95,Unknown,"Actor A, Actor B",Canada,13/02/2019,2018,PG-13,120min,Action,A thrilling adventure.
+s0096,Movie,Title 96,Director 5,"Actor A, Actor B",India,"January 5, 2021",2020,PG-13,1 Season,"Drama, Comedy",A thrilling adventure.
+s0097,movie,Title 97,director 0,"Actor C, Actor D", india ," March 7, 2018 ",2020,TV-MA,2 Seasons,Action,Family drama with twists.
+s0098,TV show,Title 98,Unknown,Actor E,USA,"January 5, 2021",2021,PG-13,2 Seasons,Comedy,A thrilling adventure.
+s0099,Movie,Title 99,director 2,"Actor A, Actor B",India,"January 5, 2021",2022,TV-MA,1 Season,"Drama, Comedy",Inspiring true story.
+s0100,TV show,Title 100,director 3,"Actor C, Actor D", india ,13/02/2019,2020,PG,90 min,Comedy,A thrilling adventure.
+s0101,TV Show,Title 101,Director 10,Actor E,UK,13/02/2019,2022,PG-13,120min,Action,Inspiring true story.
+s0102,TV Show,Title 102,director 5,"Actor C, Actor D",UK,2020-12-01,2020,PG,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0103,TV show,Title 103,director 6,"Actor C, Actor D",India," March 7, 2018 ",2020,R,90 min,Documentary,Family drama with twists.
+s0104,TV Show,Title 104,Director 13,"Actor C, Actor D",UK,"January 5, 2021",2019,PG-13,120min,Comedy,A thrilling adventure.
+s0105,movie,Title 105,Director 14,"Actor C, Actor D",India," March 7, 2018 ",2020,PG-13,2 Seasons,Drama,Family drama with twists.
+s0106,TV Show,Title 106,Unknown,"Actor A, Actor B",Canada,13/02/2019,2020,TV-MA,2 Seasons,Comedy,A thrilling adventure.
+s0107,TV show,Title 107,Director 1,"Actor C, Actor D",USA,2020-12-01,2022,PG,90 min,Drama,A thrilling adventure.
+s0108,movie,Title 108,Director 2,"Actor C, Actor D",UK," March 7, 2018 ",2020,PG-13,90 min,Action,Family drama with twists.
+s0109,TV show,Title 109,director 4,"Actor C, Actor D", india ," March 7, 2018 ",2020,R,90 min,Documentary,A thrilling adventure.
+s0110,TV show,Title 110,director 5,"Actor A, Actor B",Canada,13/02/2019,2020,R,2 Seasons,"Drama, Comedy",Family drama with twists.
+s0111,movie,Title 111,Unknown,"Actor C, Actor D",India,13/02/2019,2020,R,1 Season,Action,Inspiring true story.
+s0112,TV Show,Title 112,Director 6,"Actor C, Actor D",India,"January 5, 2021",2022,PG,1 Season,Documentary,Family drama with twists.
+s0113,TV show,Title 113,director 0,"Actor A, Actor B",UK,2020-12-01,2019,TV-MA,90 min,Comedy,Family drama with twists.
+s0114,Movie,Title 114,director 1,"Actor C, Actor D",India,2020-12-01,2020,TV-MA,2 Seasons,Comedy,Inspiring true story.
+s0115,Movie,Title 115,Unknown,"Actor A, Actor B",USA," March 7, 2018 ",2020,PG-13,2 Seasons,Comedy,A thrilling adventure.
+s0116,movie,Title 116,Unknown,"Actor C, Actor D",USA,2020-12-01,2022,TV-MA,1 Season,Comedy,A thrilling adventure.
+s0117,,Title 117,Director 11,"Actor A, Actor B",India,2020-12-01,2020,TV-MA,90 min,Action,A thrilling adventure.
+s0118,movie,Title 118,Unknown,Actor E,USA,2020-12-01,2019,PG-13,120min,"Drama, Comedy",A thrilling adventure.
+s0119,TV Show,Title 119,director 6,,USA,13/02/2019,2019,TV-MA,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0120,TV Show,Title 120,director 7,"Actor C, Actor D",USA,"January 5, 2021",2018,R,2 Seasons,Comedy,Family drama with twists.
+s0121,movie,Title 121,Director 0,"Actor A, Actor B",India," March 7, 2018 ",2022,PG,90 min,Drama,Family drama with twists.
+s0122,Movie,Title 122,Unknown,"Actor C, Actor D",UK," March 7, 2018 ",2020,PG,2 Seasons,Comedy,A thrilling adventure.
+s0123,Movie,Title 123,Unknown,"Actor A, Actor B",Canada," March 7, 2018 ",2020,R,90 min,Documentary,Family drama with twists.
+s0124,Movie,Title 124,director 3,"Actor C, Actor D", india ," March 7, 2018 ",2020,TV-MA,120min,Documentary,A thrilling adventure.
+s0125,movie,Title 125,Director 4,"Actor A, Actor B",UK,2020-12-01,2018,PG-13,120min,"Drama, Comedy",Inspiring true story.
+s0126,movie,Title 126,director 5,"Actor A, Actor B",USA,13/02/2019,2020,PG,2 Seasons,"Drama, Comedy",A thrilling adventure.
+s0127,movie,Title 127,Director 6,"Actor C, Actor D",UK," March 7, 2018 ",2018,TV-MA,1 Season,Comedy,Inspiring true story.
+s0128,TV Show,Title 128,Director 7,"Actor A, Actor B",UK," March 7, 2018 ",2022,PG,120min,"Drama, Comedy",A thrilling adventure.
+s0129,TV show,Title 129,Director 8,"Actor A, Actor B",USA," March 7, 2018 ",2019,R,90 min,Documentary,Inspiring true story.
+s0130,TV Show,Title 130,Director 9,"Actor A, Actor B",Canada," March 7, 2018 ",2021,R,90 min,"Drama, Comedy",Family drama with twists.
+s0131,TV show,,Director 10,Actor E,India,"January 5, 2021",2018,PG-13,2 Seasons,Drama,A thrilling adventure.
+s0132,TV Show,Title 132,director 3,"Actor A, Actor B", india ,13/02/2019,2020,R,90 min,"Drama, Comedy",Inspiring true story.
+,movie,Title 133,Director 12,Actor E, india ," March 7, 2018 ",2021,PG,120min,"Drama, Comedy",Family drama with twists.
+s0134,TV Show,Title 134,Director 13,Actor E,UK,2020-12-01,2018,PG-13,120min,Documentary,Family drama with twists.
+s0135,movie,Title 135,Unknown,Actor E, india ," March 7, 2018 ",2019,R,2 Seasons,Drama,Family drama with twists.
+s0136,movie,Title 136,Unknown,"Actor C, Actor D", india ,2020-12-01,2020,R,120min,Documentary,Inspiring true story.
+s0137,TV Show,Title 137,Unknown,"Actor A, Actor B",Canada,2020-12-01,2020,R,90 min,Drama,A thrilling adventure.
+s0138,TV show,Title 138,Director 2,"Actor C, Actor D",USA,"January 5, 2021",2020,TV-MA,120min,Documentary,Family drama with twists.
+s0139,movie,Title 139,director 2,"Actor C, Actor D",UK,13/02/2019,2021,TV-MA,1 Season,Action,A thrilling adventure.
+s0140,TV show,Title 140,director 3,"Actor A, Actor B",USA,13/02/2019,2018,PG-13,90 min,"Drama, Comedy",A thrilling adventure.
+s0141,Movie,Title 141,Unknown,Actor E,,13/02/2019,2018,PG,2 Seasons,Documentary,Inspiring true story.
+s0142,TV show,Title 142,Unknown,"Actor C, Actor D",USA," March 7, 2018 ",2018,R,120min,"Drama, Comedy",Inspiring true story.
+s0143,Movie,Title 143,Director 7,"Actor C, Actor D",India,13/02/2019,2019,R,120min,Comedy,Family drama with twists.
+s0144,Movie,Title 144,Unknown,"Actor C, Actor D",India,,2021,,90 min,Comedy,A thrilling adventure.
+s0145,Movie,Title 145,Director 9,"Actor C, Actor D",UK,2020-12-01,2020,R,120min,Comedy,Family drama with twists.
+s0146,movie,Title 146,Director 10,"Actor C, Actor D",USA,"January 5, 2021",2022,R,90 min,Documentary,Family drama with twists.
+s0147,Movie,Title 147,director 2,"Actor A, Actor B",USA,13/02/2019,2018,R,90 min,"Drama, Comedy",Family drama with twists.
+,TV show,Title 148,Director 12,"Actor C, Actor D",India," March 7, 2018 ",2020,PG,90 min,Documentary,Inspiring true story.
+s0149,TV show,Title 149,Director 13,Actor E,Canada," March 7, 2018 ",2020,PG-13,120min,"Drama, Comedy",Inspiring true story.
+s0150,movie,Title 150,Director 14,Actor E,India,13/02/2019,2019,TV-MA,120min,"Drama, Comedy",Family drama with twists.

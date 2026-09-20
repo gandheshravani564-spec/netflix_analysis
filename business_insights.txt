@@ -1,0 +1,15 @@
+India produces the most netflix content
+Comedy  Genre is the most popular in the netflix
+TV-MA
+2020 year has the highest number of releases
+Netflix focuses on movies more than TV shows
+unknown appears the most content because many director values are missing and were replaced with unknown
+movies:54%,tv shows:46%
+December month has the highest number of content additions
+Action genre has the fastest grown in recent years
+business insights:
+     1)India contributes the highest amount of netflix content
+     2)most content released in 2020
+     3)movies and Tv shows are mostly equal but netflix mainly focuses on movies
+     4)Tv-MA is the most common content rating 
+    
